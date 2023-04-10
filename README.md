@@ -1,2 +1,2 @@
 # odin-recipes
-Beginner project from The Odin Project. Learning how to make a recipe website.
+This is my first project from The Odin Project. I first tried it one year ago but I abandoned it, so I am starting over now. Upon completion of this project, I will have demonstrated basic HTML skills such as using headings, unordered and ordered lists, and images. Additionally, I will begin to use commit messages correctly.
